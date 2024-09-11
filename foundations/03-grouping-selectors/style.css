@@ -1,0 +1,29 @@
+/* .fonts {
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roman", sans-serif;
+}
+
+#black-background {
+    background-color: black;
+    color: white;
+}
+
+#yellow-background {
+    background-color: yellow;
+}
+*/
+
+.black-background,
+.yellow-background {
+    font-size: 28px;
+    font-family: Helvetica, "Times new Roman", sans-serif;
+}
+
+.black-background {
+    background-color: black;
+    color: white;
+}
+
+.yellow-background {
+    background-color: yellow;
+}
